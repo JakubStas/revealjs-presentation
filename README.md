@@ -23,7 +23,7 @@ http://localhost:8000/
 ```
 
 For more details read my blog post that this project was created for
-[Presenting with Docker](https://jakubstas.com/?p=2483&shareadraft=baba2483_5872c633b2f05)
+[Presenting with Docker](https://jakubstas.com/presenting-reveal-js-docker/)
 
 Please check out the following link this example is based on:
 
