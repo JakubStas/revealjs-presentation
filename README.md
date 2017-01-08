@@ -1,1 +1,1 @@
-# revealjs-presentation
+# Sample reveal.js presentation
